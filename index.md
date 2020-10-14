@@ -2,7 +2,7 @@
 
 It is my website
 ### Examples
-[Link](\zoom)
+[Link](zoom)
 code
 
 ```markdown
